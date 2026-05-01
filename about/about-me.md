@@ -1,6 +1,6 @@
 # About Me
 
-I am a Product Manager with 8+ years of experience building products across **public sector systems, HR tech, and enterprise platforms**.
+I am an AI Product Manager with 8+ years of experience building products across **public sector systems, HR tech, and enterprise platforms**.
 
 My work sits at the intersection of:
 - Product Strategy
